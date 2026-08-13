@@ -12,9 +12,8 @@
 
 ###
 
-<div data-importer="stats" align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ErickSerique&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=ErickSerique&langs_count=5&theme=radical)
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ErickSerique&langs_count=5&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=ErickSerique&langs_count=5&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ErickSerique&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=ErickSerique&rank_icon=github&show_icons=true&include_all_commits=true&theme=radical)
 
 ###
 
